@@ -1,0 +1,6 @@
+[project]
+name = "vitaprimo"
+version = "0.1.0"
+description = "game in pygame-ce"
+requires-python = ">=3.13"
+dependencies = ["pygame-ce"]
